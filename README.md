@@ -2,7 +2,7 @@
 An IoT Plant Monitor, to monitor your garden remotely.
 The detailed tutorial for the SWIT Plant Monitor post.
 
-
+-> [![alt text](https://cdn.sparkfun.com/r/600-600/assets/learn_tutorials/5/5/2/Rishabh-02.jpg)] <-
 
 # License Information
 
